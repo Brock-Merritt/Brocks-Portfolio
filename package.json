@@ -1,7 +1,7 @@
 
 {
-    "name": "portfolio-react",
-    "homepage": "https://brock-merritt.github.io/portfolio-react/",
+    "name": "Brocks-Portfolio",
+    "homepage": "https://brock-merritt.github.io/Brocks-Portfolio/",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
