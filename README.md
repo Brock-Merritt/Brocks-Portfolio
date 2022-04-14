@@ -1,0 +1,2 @@
+Testing 
+permalink:/index.html
